@@ -1,0 +1,14 @@
+<html t:type="layout" title="testing Index"
+      xmlns:t="http://tapestry.apache.org/schema/tapestry_5_4.xsd"
+      xmlns:p="tapestry:parameter">
+     <p>
+<a id="actionLink" href="/links.actionlink">ActionLink</a>
+</p>
+<p>
+<a id="eventLink1" href="/links:event">EventLink1</a>
+</p>
+<p><a id="eventLink2" href="/links:event">EventLink2</a></p>
+</html>
+
+
+
